@@ -67,6 +67,11 @@
 2. 焦虑情绪的深层次原因：[点击查看](http://jingyan.baidu.com/article/b24f6c82e4b6f586bfe5da8f.html)
 3. 李中莹：[负面情绪的正面意义](http://blog.sina.com.cn/s/blog_b1ee3f600101szhc.html)
 
+其他案例
+
+1. [黄志鹏-拯救焦虑1](http://www.jianshu.com/p/f89f4c1839ac)
+2. [黄志鹏-拯救焦虑2](http://www.jianshu.com/p/8d220c2f1e3d)
+
 - - - - -
 
 ## ChangeLog
